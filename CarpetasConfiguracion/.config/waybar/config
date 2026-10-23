@@ -1,0 +1,151 @@
+//============= Modules-Center=============================
+{
+  "layer": "top",
+  "position": "top",
+  "modules-center": [
+    "custom/launcher",
+    "mpris",
+    "wlr/taskbar",
+
+    "pulseaudio",
+    "backlight",
+//    "temperature",
+    "memory",
+//    "cpu",
+    "group/network-bluetooth",
+    "clock"
+  ],
+
+// ================= Grupos Modulos ======================
+
+"group/network-bluetooth":{
+    "orientation":"horizontal",
+    "modules":[
+      "network",
+      "bluetooth"
+    ]
+  },
+
+  //===================== COnfiguracion de los modulos ==============
+
+
+  "custom/launcher": {
+    "format": " <span color='#1793d1'>󰣇</span> ",
+    "tooltip ": false,
+    "on-click": "wlogout",
+  },
+
+  "mpris": {
+    "format": " {player_icon}  {title}",
+    "format-paused": "{player_icon} {title}",
+    "format-stopped": " ",
+    "max-length": 20,
+    "on-click": "playerctl play-pause",
+    "player-icons": {
+      "default": "  ",
+      "spotify": "  ",
+      "firefox": "  ",
+      "vlc": " 󰕼 ",
+      "mpv": "  "
+    }
+  },
+
+  "wlr/taskbar": {
+    "format": "{icon}",
+    "icon-size": 20,
+    "tooltip-format": "{title}",
+    "on-click": "activate",
+    "on-click-middle": "close",
+    "ignore-list": [
+      "Alacritty"
+    ],
+    "app_ids-mapping": {
+      "firefoxdeveloperedition": "firefox-developer-edition"
+    },
+    "rewrite": {
+      "Firefox Web Browser": "Firefox",
+      "Foot Server": "Terminal"
+    }
+  },
+
+
+
+  "clock": {
+    "interval": 1,
+    "timezone": "America/Lima",
+    "format": "<span color='#BF00FF'>  </span> {:%H.%M}",
+    "format-alt": "<span color='#BF00FF'>  </span> {:%m /%d /%Y }",
+    "tooltip": true
+  },
+
+  "memory": {
+    "format": "<span color='#8A2BE2'> 󰍛 </span> {used:0.1f}G/{total:0.1f}G ",
+    "tooltip": false
+  },
+
+//  "cpu": {
+//    "format": "<span color='#FF9F0A'>  </span> {usage}% ",
+//    "tooltip": false
+//  },
+  "backlight": {
+    "device": "intel_backlight",
+    "format": "<span color='#FFD700'>{icon}</span> {percent}% ",
+    "tooltip": true,
+    "tooltip-format": " {percent}%",
+    "format-icons": [
+      "<span color='#696969'> 󰃞 </span>",
+      "<span color='#A9A9A9'> 󰃝 </span>",
+      "<span color='#FFFF66'> 󰃟 </span>",
+      "<span color='#FFD700'> 󰃠 </span>"
+    ]
+  },
+  "bluetooth": {
+    "format": " <span color='#CDCDCD'></span> ",
+    "format-connected": " <span color='#00BFFF'></span> {device_alias} ",
+    "format-connected-battery": " <span color='#00BFFF'></span> {device_alias}{device_battery_percentage}% ",
+    "tooltip-format": " {controller_alias}\t{controller_address}\n\n{num_connections} connected ",
+    "tooltip-format-connected": " {controller_alias}\t{controller_address}\n\n{num_connections} connected\n\n{device_enumerate} ",
+    "tooltip-format-enumerate-connected": " {device_alias}\t{device_address}",
+    "tooltip-format-enumerate-connected-battery": " {device_alias}\t{device_address}\t{device_battery_percentage}%",
+    "on-click": "blueman-manager"
+  },
+  "temperature": {
+    "format": " {icon} {temperatureC}°C",
+    "format-icons": [
+      "<span color='#00bfff'></span>",
+      "<span color='#ffa500'></span>",
+      "<span color='#ff4500'></span>"
+    ],
+  },
+
+  "network": {
+    "format-wifi": " <span color='#00FFFF'>󰤨</span> {essid} ",
+    "tooltip-format-wifi":" {essid} {signalStrength}%",
+    "format-ethernet": " <span color='#7FFF00'>󰈀</span>",
+    "tooltip-format-ethernet": "Ethernet",
+    "format-linked": " <span color='#FFA500'>󱘖</span> {ifname} (No IP) ",
+    "format-disconnected": " <span color='#FF4040'></span>",
+    "tooltip-format-disconnected":"Disconnected",
+    "format-alt": " <span color='#00FFFF'>󰤨</span> {signalStrength}% ",
+    "interval": 1
+  },
+  "pulseaudio": {
+    "format": "<span color='#00FF7F'>{icon}</span> {volume}% ",
+    "format-muted": "<span color='#FF4040'> 󰖁 </span> 0% ",
+    "format-icons": {
+      "headphone": "<span color='#BF00FF'>  </span>",
+      "hands-free": "<span color='#BF00FF'>  </span>",
+      "headset": "<span color='#BF00FF'>  </span>",
+      "default": [
+        "<span color='#808080'>  </span>",
+        "<span color='#FFFF66'>  </span>",
+        "<span color='#00FF7F'>   </span>"
+      ]
+    },
+    "on-click-right": "pavucontrol -t 3",
+    "on-click": "pactl -- set-sink-mute 0 toggle",
+    "tooltip": true,
+    "tooltip-format": "{volume}%"
+  },
+
+}
