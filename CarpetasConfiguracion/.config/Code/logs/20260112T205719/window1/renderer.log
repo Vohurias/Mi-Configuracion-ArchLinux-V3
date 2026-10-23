@@ -1,0 +1,18 @@
+2026-01-12 20:57:22.320 [info] Started local extension host with pid 51615.
+2026-01-12 20:57:22.543 [info] Started initializing default profile extensions in extensions installation folder. file:///home/vohurias/.vscode/extensions
+2026-01-12 20:57:23.148 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/vohurias/.vscode/extensions
+2026-01-12 20:57:23.169 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-12 20:57:24.461 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-12 20:57:25.851 [info] [perf] Render performance baseline is 51ms
+2026-01-12 20:58:10.126 [info] Settings Sync: Updated current session 924b9f13893ff26c
+2026-01-12 20:58:10.157 [info] Settings Sync: Account status changed from unavailable to available
+2026-01-12 20:58:11.472 [error] Failed to fetch MCP registry providers Server returned 404
+2026-01-12 20:58:42.996 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-01-12 21:00:45.464 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-01-12 21:00:45.484 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-01-12 21:00:45.510 [warning] [redhat.java]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2026-01-12 21:00:55.463 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1738.5205078125kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2026-01-12 21:01:09.614 [error] [Extension Host] [RevisionManager] Error reading tasks directory: Error: ENOENT: no such file or directory, scandir '/home/vohurias/.config/Code/User/globalStorage/blackboxapp.blackboxagent/tasks'
+	at async readdir (node:internal/fs/promises:958:18)
+	at async t.getAllRevisions (/home/vohurias/.vscode/extensions/blackboxapp.blackboxagent-3.5.65/dist/extension.js:1343:4514)
+	at async t.cleanupOldRevisions (/home/vohurias/.vscode/extensions/blackboxapp.blackboxagent-3.5.65/dist/extension.js:1343:3780)

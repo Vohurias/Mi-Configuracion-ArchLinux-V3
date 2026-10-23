@@ -1,0 +1,29 @@
+headerbar,
+.sidebar,
+window,
+menu,
+.view{
+  background: rgba(10, 15, 30, 0.45)
+}
+
+/* Entry (barra de ubicación) */
+window.thunar entry,
+window.thunar .path-bar entry,
+window.thunar .location-bar entry {
+    background: rgba(10, 15, 30, 0.45);
+    color: #eaeaea;
+    border: none;
+    box-shadow: none;
+}
+
+/* Cuando está enfocado */
+window.thunar entry:focus {
+    background: rgba(10, 15, 30, 0.55);
+    box-shadow: 0 0 0 1px rgba(100, 180, 255, 0.35);
+}
+
+/* Placeholder / texto tenue */
+window.thunar entry selection {
+    background: rgba(100, 180, 255, 0.35);
+}
+

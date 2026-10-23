@@ -1,0 +1,49 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ActivateProjectToolWindow">
+      <i c="1" l="1783302946339" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="28" l="1783303059832" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1783302967208" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1783303017944" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="1" l="1783302572283" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="1" l="1783302572631" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1783302322617" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1783302394740" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.PluginsTab$3$1">
+      <i c="1" l="1783303064307" />
+    </e>
+    <e n="com.intellij.ide.projectView.actions.MarkSourceRootAction">
+      <i c="2" l="1783303132980" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1783302307322" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1783302582418" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="5" l="1783303012931" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1783302585330" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1783302584274" />
+    </e>
+  </component>
+</application>

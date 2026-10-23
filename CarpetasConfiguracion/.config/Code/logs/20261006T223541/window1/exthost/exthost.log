@@ -1,0 +1,34 @@
+2026-10-06 22:35:50.943 [info] Extension host with pid 11556 started
+2026-10-06 22:35:51.715 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-10-06 22:35:51.856 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-10-06 22:35:52.065 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-10-06 22:35:52.224 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-10-06 22:35:52.408 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-10-06 22:35:53.086 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-10-06 22:35:53.116 [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css, startup: true, activationEvent: '*'
+2026-10-06 22:35:53.347 [info] ExtensionService#_doActivateExtension Blackboxapp.blackbox, startup: true, activationEvent: '*'
+2026-10-06 22:36:12.936 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2026-10-06 22:36:15.217 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-10-06 22:36:15.313 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-10-06 22:36:15.675 [info] ExtensionService#_doActivateExtension Blackboxapp.blackboxagent, startup: false, activationEvent: 'onStartupFinished'
+2026-10-06 22:36:18.505 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2026-10-06 22:36:20.028 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2026-10-06 22:36:20.216 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2026-10-06 22:36:20.406 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-10-06 22:36:20.756 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-10-06 22:36:21.805 [info] Eager extensions activated
+2026-10-06 22:36:46.881 [info] Extension host terminating: received terminate message from renderer
+2026-10-06 22:36:46.921 [info] Extension host with pid 11556 exiting with code 0
+2026-10-06 22:36:50.924 [info] Extension host with pid 12781 started
+2026-10-06 22:36:50.924 [info] Skipping acquiring lock for /home/vohurias/.config/Code/User/workspaceStorage/b67c50a90db5a07d261e28447c5d0398.
+2026-10-06 22:36:51.045 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-10-06 22:36:51.160 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-10-06 22:36:51.299 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-10-06 22:36:51.702 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-10-06 22:36:52.947 [info] Eager extensions activated
+2026-10-06 22:36:52.950 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-10-06 22:36:52.964 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-10-06 22:36:52.994 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2026-10-06 22:45:19.075 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2026-10-06 22:50:29.192 [info] Extension host terminating: received terminate message from renderer
+2026-10-06 22:50:29.221 [info] Extension host with pid 12781 exiting with code 0

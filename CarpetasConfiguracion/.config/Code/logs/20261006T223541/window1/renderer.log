@@ -1,0 +1,147 @@
+2026-10-06 22:35:46.145 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-10-06 22:35:46.174 [info] Started local extension host with pid 11556.
+2026-10-06 22:35:46.446 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-10-06 22:35:50.363 [error] [vscode.mermaid-markdown-features]: Extension 'vscode.mermaid-markdown-features' CANNOT use 'legacyToolReferenceFullNames' without the 'chatParticipantPrivate' API proposal enabled
+2026-10-06 22:35:50.391 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:35:50.404 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:35:50.420 [warning] [redhat.java]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2026-10-06 22:35:51.708 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-10-06 22:35:53.375 [error] [Extension Host] (node:11556) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-10-06 22:35:53.410 [error] [Extension Host] (node:11556) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2026-10-06 22:35:54.494 [info] Auto updating outdated extensions. be5invis.vscode-custom-css, dart-code.dart-code, dart-code.flutter, davidanson.vscode-markdownlint, github.codespaces, ms-ceintl.vscode-language-pack-es, ms-dotnettools.csdevkit, ms-dotnettools.csharp, ms-dotnettools.vscode-dotnet-runtime, ms-vscode.live-server, redhat.fabric8-analytics, redhat.java, ritwickdey.liveserver, vscjava.vscode-java-debug, vscjava.vscode-java-dependency, vscjava.vscode-java-pack, vscjava.vscode-java-test, vscjava.vscode-maven
+2026-10-06 22:35:54.659 [info] [perf] Render performance baseline is 33ms
+2026-10-06 22:35:56.523 [info] Extension host (LocalProcess pid: 11556) is unresponsive.
+2026-10-06 22:35:58.545 [info] UNRESPONSIVE extension host: starting to profile NOW
+2026-10-06 22:36:13.028 [info] Extension host (LocalProcess pid: 11556) is responsive.
+2026-10-06 22:36:14.024 [info] Auto updating outdated extensions. github.codespaces
+2026-10-06 22:36:14.643 [info] Settings Sync: Account status changed from uninitialized to available
+2026-10-06 22:36:15.690 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1738.5205078125kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2026-10-06 22:36:17.817 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:18.078 [info] Auto updating outdated extensions. github.codespaces
+2026-10-06 22:36:19.087 [info] Extension host (LocalProcess pid: 11556) is unresponsive.
+2026-10-06 22:36:19.907 [info] UNRESPONSIVE extension host: starting to profile NOW
+2026-10-06 22:36:20.943 [info] Extension host (LocalProcess pid: 11556) is responsive.
+2026-10-06 22:36:20.943 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2026-10-06 22:36:21.764 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1738.5205078125kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2026-10-06 22:36:21.870 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:21.884 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:22.076 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:22.082 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:22.156 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:22.253 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:22.254 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:22.281 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:22.293 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:22.324 [error] [Extension Host] undefined
+2026-10-06 22:36:22.327 [error] [Extension Host] undefined
+2026-10-06 22:36:22.439 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:22.445 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:22.466 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:22.527 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:22.530 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:22.538 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:22.591 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:22.633 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:22.637 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:22.645 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:22.652 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:22.725 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:22.733 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:23.081 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:23.084 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-10-06 22:36:23.088 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:23.089 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:24.072 [error] [Extension Host] undefined
+2026-10-06 22:36:24.074 [error] [Extension Host] undefined
+2026-10-06 22:36:24.382 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1738.6708984375kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2026-10-06 22:36:24.474 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1738.6767578125kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2026-10-06 22:36:24.565 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1738.6708984375kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2026-10-06 22:36:24.829 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1738.6767578125kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2026-10-06 22:36:24.889 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:25.011 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1738.6708984375kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2026-10-06 22:36:25.187 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1738.6767578125kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2026-10-06 22:36:25.509 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 2549.61328125kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2026-10-06 22:36:25.601 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1738.6767578125kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2026-10-06 22:36:25.885 [error] [Extension Host] undefined
+2026-10-06 22:36:25.885 [error] [Extension Host] undefined
+2026-10-06 22:36:27.478 [error] [Extension Host] undefined
+2026-10-06 22:36:28.266 [error] [Extension Host] undefined
+2026-10-06 22:36:29.011 [error] [Extension Host] undefined
+2026-10-06 22:36:29.789 [error] [Extension Host] undefined
+2026-10-06 22:36:30.560 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:30.566 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:30.727 [error] [Extension Host] undefined
+2026-10-06 22:36:31.167 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:31.349 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:31.353 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:31.403 [error] [Extension Host] undefined
+2026-10-06 22:36:31.439 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:32.084 [error] [Extension Host] undefined
+2026-10-06 22:36:32.901 [error] [Extension Host] undefined
+2026-10-06 22:36:33.628 [error] [Extension Host] undefined
+2026-10-06 22:36:34.435 [error] [Extension Host] undefined
+2026-10-06 22:36:34.469 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:34.473 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:34.659 [info] Auto updating outdated extensions. github.codespaces, ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:35.213 [error] [Extension Host] undefined
+2026-10-06 22:36:35.976 [error] [Extension Host] undefined
+2026-10-06 22:36:36.785 [error] [Extension Host] undefined
+2026-10-06 22:36:37.520 [error] [Extension Host] undefined
+2026-10-06 22:36:38.300 [error] [Extension Host] undefined
+2026-10-06 22:36:39.050 [error] [Extension Host] undefined
+2026-10-06 22:36:40.629 [error] [Extension Host] undefined
+2026-10-06 22:36:41.495 [error] [Extension Host] [RevisionManager] Error reading tasks directory: Error: ENOENT: no such file or directory, scandir '/home/vohurias/.config/Code/User/globalStorage/blackboxapp.blackboxagent/tasks'
+	at async readdir (node:internal/fs/promises:957:18)
+	at async t.getAllRevisions (/home/vohurias/.vscode/extensions/blackboxapp.blackboxagent-3.5.65/dist/extension.js:1343:4514)
+	at async t.cleanupOldRevisions (/home/vohurias/.vscode/extensions/blackboxapp.blackboxagent-3.5.65/dist/extension.js:1343:3780)
+2026-10-06 22:36:43.828 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 AI Coding Agent and Coding Copilot (Blackboxapp.blackbox)
+2026-10-06 22:36:43.834 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2026-10-06 22:36:44.372 [info] Auto updating outdated extensions. github.codespaces
+2026-10-06 22:36:46.484 [info] Auto updating outdated extensions. github.codespaces
+2026-10-06 22:36:46.982 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Canceled
+2026-10-06 22:36:49.028 [info] Started local extension host with pid 12781.
+2026-10-06 22:36:49.218 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-10-06 22:36:49.305 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-10-06 22:36:49.306 [info] [AgentHost:renderer] Direct MessagePort connection established
+2026-10-06 22:36:50.046 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-10-06 22:36:50.127 [error] [vscode.mermaid-markdown-features]: Extension 'vscode.mermaid-markdown-features' CANNOT use 'legacyToolReferenceFullNames' without the 'chatParticipantPrivate' API proposal enabled
+2026-10-06 22:36:50.161 [warning] [redhat.java]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2026-10-06 22:36:51.782 [info] Settings Sync: Account status changed from uninitialized to available
+2026-10-06 22:36:52.145 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.145 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.147 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.179 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.182 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.183 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.187 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.188 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.189 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.190 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.192 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.213 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.214 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.216 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.217 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.230 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.231 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.234 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.243 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.303 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.304 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.305 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.306 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.307 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.336 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-10-06 22:36:52.355 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.358 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.359 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.360 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.360 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.361 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.365 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-10-06 22:36:52.548 [error] [Extension Host] (node:12781) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-10-06 22:36:52.639 [info] [perf] Render performance baseline is 35ms
+2026-10-06 22:36:52.744 [info] Auto updating outdated extensions. github.codespaces
+2026-10-06 22:36:55.046 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false

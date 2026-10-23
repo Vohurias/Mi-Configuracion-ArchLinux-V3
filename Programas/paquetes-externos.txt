@@ -1,0 +1,15 @@
+android-sdk
+android-sdk-build-tools
+android-sdk-platform-tools
+android-studio
+epson-inkjet-printer-escpr
+jetbrains-toolbox
+packettracer
+rar
+rufus-linux
+rufus-linux-debug
+visual-studio-code-bin
+wlogout
+woeusb
+yay
+zoom

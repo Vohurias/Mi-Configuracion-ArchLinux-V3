@@ -1,0 +1,9 @@
+2026-01-12 18:49:10.653 [info] Started local extension host with pid 26261.
+2026-01-12 18:49:13.510 [info] [perf] Render performance baseline is 69ms
+2026-01-12 18:50:51.144 [error] [chat setup] install: error undefined
+2026-01-12 18:50:52.919 [error] [chat setup] install: error undefined
+2026-01-12 18:51:00.933 [error] [chat setup] install: error NotFound: The extension 'GitHub.copilot-chat' cannot be installed because it was not found.
+2026-01-12 18:51:06.224 [error] [chat setup] install: error undefined
+2026-01-12 18:51:07.630 [error] [chat setup] install: error NotFound: The extension 'GitHub.copilot-chat' cannot be installed because it was not found.
+2026-01-12 18:51:47.646 [error] [chat setup] install: error undefined
+2026-01-12 18:51:51.660 [error] [chat setup] install: error NotFound: The extension 'GitHub.copilot-chat' cannot be installed because it was not found.

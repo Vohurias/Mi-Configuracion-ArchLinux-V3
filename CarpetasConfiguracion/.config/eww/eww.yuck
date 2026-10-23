@@ -1,0 +1,64 @@
+(defwindow hola-mundo
+  :monitor 0
+  :geometry (geometry 
+  :x "0" 
+  :y "0" 
+  :width "200px" 
+  :height "100px")
+  :stacking "fg"
+  (label :text "Hola prueba")
+)
+
+
+(defwindow prueba
+  :monitor 1
+  :geometry (geometry
+  :x "100px"
+  :y "100px"
+  :width "200px"
+  :height "100px"
+  :stacking "fg")
+  (label :text "Soy la ventan prueba")
+  
+)
+
+(defvar brillo "0")
+
+(defwindow brillo_widget
+:monitor 0
+:geometry (geometry :x "500" :y "50px" :width "300px" :height "80px")
+  :stacking "fg"
+  :wm-ignore true
+  (box :class "box" :orientation "v"
+    (label :text "Brillo")
+    (progress :value brillo :max 100)))
+
+
+;; Variables que piden los datos por separado
+(defpoll count_pacman :interval "1h" "/home/vohurias/.config/eww/scripts/updates.sh  --official")
+(defpoll count_aur    :interval "1h" "/home/vohurias/.config/eww/scripts/updates.sh  --aur")
+
+(defwindow alerta_updates
+  :monitor 0
+  :geometry (geometry :x "05px"
+                       :y "10px"
+                       :width "250px"
+                       :height "70px"
+                       :anchor "top right")
+  :stacking "overlay"
+  (box :class "main-box" :orientation "v" :space-evenly false
+    (label :class "titulo" :text "Actualizaciones disponibles")
+    
+    (box :class "info-container" :orientation "h" :space-evenly true
+      ;; Sección de Pacman
+      (box :orientation "v" :space-evenly false
+        (label :class "label-pkg" :text "Pacman")
+        (label :class "num-pkg" :text count_pacman))
+      
+      ;; Sección de AUR
+      (box :orientation "v" :space-evenly false
+        (label :class "label-pkg" :text "AUR (Yay/Paru)")
+        (label :class "num-pkg" :text count_aur))
+    )
+  )
+)

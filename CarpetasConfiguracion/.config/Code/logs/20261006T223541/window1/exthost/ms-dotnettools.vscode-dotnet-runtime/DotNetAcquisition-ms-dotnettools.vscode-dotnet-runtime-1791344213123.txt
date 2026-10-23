@@ -1,0 +1,95 @@
+6/10/2026, 10:36:53 p. m. 140 AutomaticUpdateCheck
+Checking for updates after 300000. Last Update Date: 1970-01-01T00:00:00.000Z. Current Date: 2026-10-07T03:36:53.124Z
+
+6/10/2026, 10:36:53 p. m. 142 AutomaticUpdateCheck
+Commencing updates at 1791344213142 in 300000 ms.
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension TypeScriptTeam.jsts-chat-features for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.dotenv for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.mermaid-markdown-features for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension DavidAnson.vscode-markdownlint for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension GitHub.codespaces for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension MS-CEINTL.vscode-language-pack-es for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension Nash.awesome-flutter-snippets for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension redhat.fabric8-analytics for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension thang-nm.catppuccin-perfect-icons for .NET installation requests
+
+6/10/2026, 10:36:53 p. m. 144 DotnetVSCodeExtensionFound
+true
+Checking extension vscjava.vscode-maven for .NET installation requests
+
+6/10/2026, 10:41:53 p. m. 225 GenericDotnetLockEvent
+Action: session-18decdfff8 Lock acquired: /run/user/1000/vscd-session-18decdfff8.sock
+2026-10-07T03:41:53.225Z
+session-18decdfff8
+session-18decdfff8
+true
+
+6/10/2026, 10:41:53 p. m. 225 GenericDotnetLockEvent
+Action: installedLk-456ddefc-bc54-407d-8437-7aed4179afb2 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-10-07T03:41:53.225Z
+installedLk
+installedLk
+true
+
+6/10/2026, 10:41:53 p. m. 226 FoundTrackingVersions
+true
+installed :
+                        
+
+6/10/2026, 10:41:53 p. m. 227 GenericDotnetLockEvent
+Action: installedLk-456ddefc-bc54-407d-8437-7aed4179afb2 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-10-07T03:41:53.227Z
+installedLk
+installedLk
+true
+
+6/10/2026, 10:41:53 p. m. 227 UpdatingInstallGroups
+Automatic update triggered and detected the following install groups: []
+

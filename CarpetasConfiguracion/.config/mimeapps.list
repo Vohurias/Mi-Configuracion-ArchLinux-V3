@@ -1,0 +1,22 @@
+[Default Applications]
+application/x-zerosize=nvim.desktop
+application/octet-stream=kitty.desktop
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+application/zip=thunar.desktop
+application/x-java=nvim.desktop
+video/mp4=firefox.desktop
+application/vnd.sqlite3=kitty.desktop
+x-scheme-handler/pttp=CiscoPacketTracerPtsa-9.0.1.desktop
+application/x-pka=CiscoPacketTracer-9.0.1.desktop
+application/x-pkt=CiscoPacketTracer-9.0.1.desktop
+application/x-pkz=CiscoPacketTracer-9.0.1.desktop
+application/x-pksz=CiscoPacketTracer-9.0.1.desktop
+
+[Added Associations]
+application/x-zerosize=ranger.desktop;nvim.desktop;
+application/octet-stream=nvim.desktop;kitty.desktop;
+application/zip=ranger.desktop;thunar.desktop;
+application/x-java=nvim.desktop;
+video/mp4=firefox.desktop;
+inode/directory=netbeans.desktop;
+application/vnd.sqlite3=kitty.desktop;

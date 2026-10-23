@@ -1,0 +1,14 @@
+<application>
+  <component name="FindSettings">
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.kts</mask>
+    <mask>*.kt</mask>
+    <mask>*.java</mask>
+  </component>
+</application>

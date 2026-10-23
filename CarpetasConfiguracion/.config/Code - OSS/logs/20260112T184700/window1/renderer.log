@@ -1,0 +1,9 @@
+2026-01-12 18:47:03.562 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2026-01-12 18:47:03.994 [info] Started local extension host with pid 25432.
+2026-01-12 18:47:04.303 [info] Started initializing default profile extensions in extensions installation folder. file:///home/vohurias/.vscode-oss/extensions
+2026-01-12 18:47:05.531 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/vohurias/.vscode-oss/extensions
+2026-01-12 18:47:07.938 [info] [perf] Render performance baseline is 59ms
+2026-01-12 18:48:15.947 [error] [chat setup] install: error undefined
+2026-01-12 18:48:19.393 [error] [chat setup] install: error undefined
+2026-01-12 18:48:20.824 [error] [chat setup] install: error undefined
+2026-01-12 18:48:25.235 [error] [chat setup] install: error NotFound: The extension 'GitHub.copilot-chat' cannot be installed because it was not found.

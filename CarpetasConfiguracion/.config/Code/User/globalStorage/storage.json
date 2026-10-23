@@ -1,0 +1,66 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "a66118e20317d248d87623f6d95973fba52c932d517c08f2eb4c72d287600825",
+    "telemetry.devDeviceId": "b5a88a56-d2da-4a79-9578-c0690205c152",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/vohurias/Descargas"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1768269440830"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/vohurias/Descargas": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1768269440830": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#121314",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#bfbfbf",
+            "background": "#121314",
+            "editorBackground": "#121314",
+            "titleBarBackground": "#191a1b",
+            "titleBarBorder": "#2a2b2c",
+            "activityBarBackground": "#191a1b",
+            "activityBarBorder": "#2a2b2c",
+            "sideBarBackground": "#191a1b",
+            "sideBarBorder": "#2a2b2c",
+            "panelBackground": "#191a1b",
+            "editorGroupBorder": "rgba(255, 255, 255, 0.09)",
+            "agentsPanelBackground": "#191a1b",
+            "agentsPanelBorder": "#2a2b2c",
+            "statusBarBackground": "#191a1b",
+            "statusBarBorder": "#2a2b2c",
+            "statusBarNoFolderBackground": "#191a1b"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/vohurias/Descargas",
+            "backupPath": "/home/vohurias/.config/Code/Backups/10051f554e1b726dd9cdd264d103b899",
+            "uiState": {
+                "mode": 3,
+                "display": 71,
+                "width": 683,
+                "height": 367,
+                "x": 0,
+                "y": 0
+            }
+        },
+        "openedWindows": []
+    }
+}

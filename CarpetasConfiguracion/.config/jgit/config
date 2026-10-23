@@ -1,0 +1,15 @@
+[filesystem "JetBrains s.r.o.|21.0.8|/dev/sda3"]
+	timestampResolution = 3898 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "JetBrains s.r.o.|21.0.9|/dev/sda3"]
+	timestampResolution = 15276 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Arch Linux|26.0.2|/dev/sda3"]
+	timestampResolution = 4374 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Arch Linux|26.0.1|/dev/sda3"]
+	timestampResolution = 28496 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "JetBrains s.r.o.|21.0.10|/dev/sda3"]
+	timestampResolution = 16386 nanoseconds
+	minRacyThreshold = 0 nanoseconds

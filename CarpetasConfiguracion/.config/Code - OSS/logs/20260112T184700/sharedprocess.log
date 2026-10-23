@@ -1,0 +1,8 @@
+2026-01-12 18:47:04.663 [info] Started initializing default profile extensions in extensions installation folder. file:///home/vohurias/.vscode-oss/extensions
+2026-01-12 18:47:05.113 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/vohurias/.vscode-oss/extensions
+2026-01-12 18:48:53.327 [info] Getting Manifest... knisterpeter.vscode-github
+2026-01-12 18:48:54.206 [info] Installing extension: knisterpeter.vscode-github {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode-oss/extensions/extensions.json","path":"/home/vohurias/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.1","date":"2025-12-19T12:27:49.310Z"}}
+2026-01-12 18:48:57.812 [info] Extension signature verification result for knisterpeter.vscode-github: Success. Executed: true. Duration: 1007ms.
+2026-01-12 18:48:58.565 [info] Extracted extension to file:///home/vohurias/.vscode-oss/extensions/knisterpeter.vscode-github-0.30.7-universal: knisterpeter.vscode-github
+2026-01-12 18:48:58.680 [info] Renamed to /home/vohurias/.vscode-oss/extensions/knisterpeter.vscode-github-0.30.7-universal
+2026-01-12 18:48:58.748 [info] Extension installed successfully: knisterpeter.vscode-github vscode-userdata:/home/vohurias/.vscode-oss/extensions/extensions.json

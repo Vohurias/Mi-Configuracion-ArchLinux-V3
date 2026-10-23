@@ -1,0 +1,106 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Calculadora1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Calculadora1 – MainActivity.kt [Calculadora1.app.main]" projectWorkspaceId="3B36qG8jpE2IqprCF2qxUI5fPy8">
+              <option name="activationTimestamp" value="1774579566113" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="1374" y="42" width="669" height="718" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1774575268129" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/PruebaFuncionesTEclas">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PruebaFuncionesTEclas" projectWorkspaceId="3BVX9eHXkSE8jgOCrfo7hAKMHdG">
+              <option name="activationTimestamp" value="1774666081257" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="1374" y="42" width="669" height="718" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1774579565883" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Prueba">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Prueba – MainActivity.kt [Prueba.app.main]" projectWorkspaceId="38aLVAj9CFHbhO46dhMECqNofuD">
+              <option name="activationTimestamp" value="1774744751990" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1374" y="42" width="669" height="718" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1774666081467" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MyApplication" projectWorkspaceId="3B6GXaLjBVWKEQ2wyHtjeFYEHPF">
+              <option name="activationTimestamp" value="1774744770384" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="2055" y="42" width="669" height="718" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1774744770795" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/BlocNotasV1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="BlocNotasV1 – MainActivity.kt [BlocNotasV1.app.main]" opened="true" projectWorkspaceId="3Bb6NBCW6tzzHRCwwKLs6VqbhCY">
+              <option name="activationTimestamp" value="1775275401004" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="1374" y="42" width="1350" height="718" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1774745379875" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MiPrueba">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MiPrueba – MainActivity.kt [MiPrueba.app.main]" projectWorkspaceId="38aMZEUe2qUiMEej3yhMr1WM6mg">
+              <option name="activationTimestamp" value="1775191268128" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="2055" y="42" width="669" height="718" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1775172622903" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/BlocNotasV1" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

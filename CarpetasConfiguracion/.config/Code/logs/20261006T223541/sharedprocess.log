@@ -1,0 +1,142 @@
+2026-10-06 22:35:55.835 [info] Getting Manifest... be5invis.vscode-custom-css
+2026-10-06 22:35:55.837 [info] Getting Manifest... dart-code.dart-code
+2026-10-06 22:35:55.839 [info] Getting Manifest... dart-code.flutter
+2026-10-06 22:35:55.840 [info] Getting Manifest... davidanson.vscode-markdownlint
+2026-10-06 22:35:55.842 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2026-10-06 22:35:55.843 [info] Getting Manifest... ms-dotnettools.csdevkit
+2026-10-06 22:35:55.844 [info] Getting Manifest... ms-dotnettools.csharp
+2026-10-06 22:35:55.845 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2026-10-06 22:35:55.847 [info] Getting Manifest... ms-vscode.live-server
+2026-10-06 22:35:55.848 [info] Getting Manifest... redhat.fabric8-analytics
+2026-10-06 22:35:55.849 [info] Getting Manifest... redhat.java
+2026-10-06 22:35:55.851 [info] Getting Manifest... ritwickdey.liveserver
+2026-10-06 22:35:55.852 [info] Getting Manifest... vscjava.vscode-java-debug
+2026-10-06 22:35:55.854 [info] Getting Manifest... vscjava.vscode-java-dependency
+2026-10-06 22:35:55.855 [info] Getting Manifest... vscjava.vscode-java-pack
+2026-10-06 22:35:55.856 [info] Getting Manifest... vscjava.vscode-java-test
+2026-10-06 22:35:55.857 [info] Getting Manifest... vscjava.vscode-maven
+2026-10-06 22:35:56.206 [info] Installing extension: dart-code.dart-code {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.212 [info] Installing extension: dart-code.flutter {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.216 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.220 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.224 [info] Installing extension: redhat.fabric8-analytics {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.229 [info] Installing extension: ritwickdey.liveserver {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.366 [info] Installing extension: ms-dotnettools.csdevkit {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.368 [info] Installing extension: be5invis.vscode-custom-css {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.371 [info] Installing extension: ms-vscode.live-server {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.374 [info] Installing extension: vscjava.vscode-maven {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.376 [info] Installing extension: vscjava.vscode-java-test {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.379 [info] Installing extension: davidanson.vscode-markdownlint {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.382 [info] Installing extension: vscjava.vscode-java-dependency {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.386 [info] Installing extension: vscjava.vscode-java-pack {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.468 [info] Installing extension: redhat.java {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.471 [info] Installing extension: vscjava.vscode-java-debug {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:35:56.522 [info] Installing extension: ms-dotnettools.csharp {"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:36:16.855 [info] Extension signature verification result for dart-code.dart-code: Success. Internal Code: 0. Executed: true. Duration: 17421ms.
+2026-10-06 22:36:16.875 [info] Extension signature verification result for ms-dotnettools.csdevkit: Success. Internal Code: 0. Executed: true. Duration: 10501ms.
+2026-10-06 22:36:16.875 [info] Extension signature verification result for ms-dotnettools.csharp: Success. Internal Code: 0. Executed: true. Duration: 8611ms.
+2026-10-06 22:36:16.875 [info] Extension signature verification result for dart-code.flutter: Success. Internal Code: 0. Executed: true. Duration: 18480ms.
+2026-10-06 22:36:16.896 [info] Extension signature verification result for vscjava.vscode-maven: Success. Internal Code: 0. Executed: true. Duration: 14782ms.
+2026-10-06 22:36:16.936 [info] Extension signature verification result for redhat.java: Success. Internal Code: 0. Executed: true. Duration: 9006ms.
+2026-10-06 22:36:17.084 [info] Extension signature verification result for vscjava.vscode-java-pack: Success. Internal Code: 0. Executed: true. Duration: 16401ms.
+2026-10-06 22:36:17.122 [info] Extension signature verification result for redhat.fabric8-analytics: Success. Internal Code: 0. Executed: true. Duration: 16342ms.
+2026-10-06 22:36:17.172 [info] Extension signature verification result for davidanson.vscode-markdownlint: Success. Internal Code: 0. Executed: true. Duration: 16522ms.
+2026-10-06 22:36:17.173 [info] Extension signature verification result for vscjava.vscode-java-dependency: Success. Internal Code: 0. Executed: true. Duration: 16478ms.
+2026-10-06 22:36:17.202 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-es: Success. Internal Code: 0. Executed: true. Duration: 15807ms.
+2026-10-06 22:36:17.233 [info] Extension signature verification result for ms-vscode.live-server: Success. Internal Code: 0. Executed: true. Duration: 16430ms.
+2026-10-06 22:36:17.259 [info] Extension signature verification result for vscjava.vscode-java-test: Success. Internal Code: 0. Executed: true. Duration: 16530ms.
+2026-10-06 22:36:17.296 [info] Extension signature verification result for vscjava.vscode-java-debug: Success. Internal Code: 0. Executed: true. Duration: 16427ms.
+2026-10-06 22:36:17.323 [info] Extension signature verification result for be5invis.vscode-custom-css: Success. Internal Code: 0. Executed: true. Duration: 16664ms.
+2026-10-06 22:36:17.363 [info] Extension signature verification result for ms-dotnettools.vscode-dotnet-runtime: Success. Internal Code: 0. Executed: true. Duration: 18801ms.
+2026-10-06 22:36:17.406 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 17985ms.
+2026-10-06 22:36:17.473 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/dart-code.flutter-3.144.0: dart-code.flutter
+2026-10-06 22:36:17.586 [info] Renamed to /home/vohurias/.vscode/extensions/dart-code.flutter-3.144.0
+2026-10-06 22:36:17.689 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/davidanson.vscode-markdownlint-0.62.1: davidanson.vscode-markdownlint
+2026-10-06 22:36:17.791 [info] Marked extension as removed dart-code.flutter-3.126.0
+2026-10-06 22:36:17.801 [info] Extension installed successfully: dart-code.flutter vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:17.813 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/vscjava.vscode-java-dependency-0.27.6: vscjava.vscode-java-dependency
+2026-10-06 22:36:17.831 [info] Renamed to /home/vohurias/.vscode/extensions/davidanson.vscode-markdownlint-0.62.1
+2026-10-06 22:36:18.008 [info] Renamed to /home/vohurias/.vscode/extensions/vscjava.vscode-java-dependency-0.27.6
+2026-10-06 22:36:18.075 [info] Marked extension as removed davidanson.vscode-markdownlint-0.61.1
+2026-10-06 22:36:18.272 [info] Extension installed successfully: davidanson.vscode-markdownlint vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:18.304 [info] Marked extension as removed vscjava.vscode-java-dependency-0.27.0
+2026-10-06 22:36:18.308 [info] Extension installed successfully: vscjava.vscode-java-dependency vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:18.729 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/ms-vscode.live-server-0.4.20: ms-vscode.live-server
+2026-10-06 22:36:18.770 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/vscjava.vscode-java-debug-0.59.0: vscjava.vscode-java-debug
+2026-10-06 22:36:18.812 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0: ms-dotnettools.vscode-dotnet-runtime
+2026-10-06 22:36:18.826 [info] Renamed to /home/vohurias/.vscode/extensions/ms-vscode.live-server-0.4.20
+2026-10-06 22:36:18.892 [info] Renamed to /home/vohurias/.vscode/extensions/vscjava.vscode-java-debug-0.59.0
+2026-10-06 22:36:18.910 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/vscjava.vscode-java-test-0.46.0: vscjava.vscode-java-test
+2026-10-06 22:36:18.913 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/vscjava.vscode-java-pack-0.31.1: vscjava.vscode-java-pack
+2026-10-06 22:36:18.967 [info] Renamed to /home/vohurias/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0
+2026-10-06 22:36:19.002 [info] Extension installed successfully: ms-vscode.live-server vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:19.004 [info] Marked extension as removed ms-vscode.live-server-0.4.16
+2026-10-06 22:36:19.059 [info] Renamed to /home/vohurias/.vscode/extensions/vscjava.vscode-java-pack-0.31.1
+2026-10-06 22:36:19.059 [info] Renamed to /home/vohurias/.vscode/extensions/vscjava.vscode-java-test-0.46.0
+2026-10-06 22:36:19.201 [info] Marked extension as removed vscjava.vscode-java-debug-0.58.5
+2026-10-06 22:36:19.273 [info] Extension installed successfully: vscjava.vscode-java-debug vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:19.379 [info] Marked extension as removed ms-dotnettools.vscode-dotnet-runtime-3.0.0
+2026-10-06 22:36:19.381 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/be5invis.vscode-custom-css-7.5.1: be5invis.vscode-custom-css
+2026-10-06 22:36:19.635 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:19.675 [info] Renamed to /home/vohurias/.vscode/extensions/be5invis.vscode-custom-css-7.5.1
+2026-10-06 22:36:19.696 [info] Marked extension as removed vscjava.vscode-java-test-0.44.0
+2026-10-06 22:36:19.787 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.130.2026072017: ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:19.853 [info] Getting Manifest... bracketpaircolordlw.bracket-pair-color-dlw
+2026-10-06 22:36:19.853 [info] Getting Manifest... nash.awesome-flutter-snippets
+2026-10-06 22:36:19.857 [info] Marked extension as removed vscjava.vscode-java-pack-0.30.5
+2026-10-06 22:36:19.897 [info] Extension installed successfully: vscjava.vscode-java-test vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:20.082 [info] Renamed to /home/vohurias/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.130.2026072017
+2026-10-06 22:36:20.148 [info] Extension installed successfully: vscjava.vscode-java-pack vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:20.231 [info] Marked extension as removed be5invis.vscode-custom-css-7.5.0
+2026-10-06 22:36:20.256 [info] Extension installed successfully: be5invis.vscode-custom-css vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:20.320 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/redhat.fabric8-analytics-1.1.0: redhat.fabric8-analytics
+2026-10-06 22:36:20.432 [info] Marked extension as removed ms-ceintl.vscode-language-pack-es-1.108.2026010709
+2026-10-06 22:36:20.592 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:20.619 [info] Installing extension: bracketpaircolordlw.bracket-pair-color-dlw {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"isBuiltin":false,"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"}}
+2026-10-06 22:36:20.619 [info] Installing extension: nash.awesome-flutter-snippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"isBuiltin":false,"productVersion":{"version":"1.130.0","date":"2026-07-22T14:55:04Z"}}
+2026-10-06 22:36:20.619 [info] Installing the extension without checking dependencies and pack bracketpaircolordlw.bracket-pair-color-dlw
+2026-10-06 22:36:20.619 [info] Installing the extension without checking dependencies and pack nash.awesome-flutter-snippets
+2026-10-06 22:36:20.639 [info] Renamed to /home/vohurias/.vscode/extensions/redhat.fabric8-analytics-1.1.0
+2026-10-06 22:36:20.724 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:20.908 [info] Extension installed successfully: redhat.fabric8-analytics vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:21.116 [info] Marked extension as removed redhat.fabric8-analytics-0.10.2
+2026-10-06 22:36:21.546 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/vscjava.vscode-maven-0.45.3: vscjava.vscode-maven
+2026-10-06 22:36:21.797 [info] Renamed to /home/vohurias/.vscode/extensions/vscjava.vscode-maven-0.45.3
+2026-10-06 22:36:22.162 [info] Marked extension as removed vscjava.vscode-maven-0.45.1
+2026-10-06 22:36:22.253 [info] Extension installed successfully: vscjava.vscode-maven vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:23.974 [info] Extension signature verification result for bracketpaircolordlw.bracket-pair-color-dlw: Success. Internal Code: 0. Executed: true. Duration: 1808ms.
+2026-10-06 22:36:24.067 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/bracketpaircolordlw.bracket-pair-color-dlw-0.0.6: bracketpaircolordlw.bracket-pair-color-dlw
+2026-10-06 22:36:24.129 [info] Renamed to /home/vohurias/.vscode/extensions/bracketpaircolordlw.bracket-pair-color-dlw-0.0.6
+2026-10-06 22:36:24.438 [info] Extension signature verification result for nash.awesome-flutter-snippets: Success. Internal Code: 0. Executed: true. Duration: 1667ms.
+2026-10-06 22:36:24.522 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/nash.awesome-flutter-snippets-4.0.1: nash.awesome-flutter-snippets
+2026-10-06 22:36:24.576 [info] Renamed to /home/vohurias/.vscode/extensions/nash.awesome-flutter-snippets-4.0.1
+2026-10-06 22:36:24.813 [info] Extension installed successfully: bracketpaircolordlw.bracket-pair-color-dlw vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:24.813 [info] Extension installed successfully: nash.awesome-flutter-snippets vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:29.077 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/redhat.java-1.56.0-linux-x64: redhat.java
+2026-10-06 22:36:29.344 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64: ms-dotnettools.csdevkit
+2026-10-06 22:36:29.885 [info] Renamed to /home/vohurias/.vscode/extensions/redhat.java-1.56.0-linux-x64
+2026-10-06 22:36:30.083 [info] Renamed to /home/vohurias/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64
+2026-10-06 22:36:30.435 [info] Marked extension as removed redhat.java-1.51.0-linux-x64
+2026-10-06 22:36:30.547 [info] Extension installed successfully: redhat.java vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:31.254 [info] Marked extension as removed ms-dotnettools.csdevkit-1.90.2-linux-x64
+2026-10-06 22:36:31.340 [info] Extension installed successfully: ms-dotnettools.csdevkit vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:33.139 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/ms-dotnettools.csharp-2.160.4-linux-x64: ms-dotnettools.csharp
+2026-10-06 22:36:33.531 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/ritwickdey.liveserver-5.7.10: ritwickdey.liveserver
+2026-10-06 22:36:33.843 [info] Renamed to /home/vohurias/.vscode/extensions/ms-dotnettools.csharp-2.160.4-linux-x64
+2026-10-06 22:36:34.420 [info] Renamed to /home/vohurias/.vscode/extensions/ritwickdey.liveserver-5.7.10
+2026-10-06 22:36:34.448 [info] Marked extension as removed ms-dotnettools.csharp-2.110.4-linux-x64
+2026-10-06 22:36:34.454 [info] Extension installed successfully: ms-dotnettools.csharp vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:35.330 [info] Marked extension as removed ritwickdey.liveserver-5.7.9
+2026-10-06 22:36:35.431 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:43.042 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/dart-code.dart-code-3.144.0: dart-code.dart-code
+2026-10-06 22:36:43.705 [info] Renamed to /home/vohurias/.vscode/extensions/dart-code.dart-code-3.144.0
+2026-10-06 22:36:43.792 [info] Marked extension as removed dart-code.dart-code-3.126.0
+2026-10-06 22:36:43.816 [info] Extension installed successfully: dart-code.dart-code vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json
+2026-10-06 22:36:44.372 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:44.575 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"productVersion":{"version":"1.140.0","date":"2026-09-30T09:06:44.424Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json","path":"/home/vohurias/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-10-06 22:36:45.958 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-es: Success. Internal Code: 0. Executed: true. Duration: 841ms.
+2026-10-06 22:36:46.124 [info] Extracted extension to file:///home/vohurias/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.131.2026090407: ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:46.178 [info] Renamed to /home/vohurias/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.131.2026090407
+2026-10-06 22:36:46.268 [info] Marked extension as removed ms-ceintl.vscode-language-pack-es-1.130.2026072017
+2026-10-06 22:36:46.282 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2026-10-06 22:36:46.424 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es vscode-userdata:/home/vohurias/.vscode/extensions/extensions.json

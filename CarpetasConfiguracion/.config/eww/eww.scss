@@ -1,0 +1,35 @@
+.brillo_widget progress{
+  background-color:rgb(255,255,255)
+}
+
+.main-box {
+  background-color: rgba(0,0,0,0.5);
+  //border: 2px solid #89b4fa;
+  border-radius: 12px;
+  padding: 15px;
+  
+}
+
+.titulo {
+  font-size: 16px;
+  font-weight: bold;
+  color: #cdd6f4;
+  margin-bottom: 10px;
+}
+
+.info-container {
+  margin: 10px 0;
+}
+
+.label-pkg {
+  font-size: 12px;
+  color: #a6adc8;
+}
+
+.num-pkg {
+  font-size: 24px;
+  font-weight: 900;
+  color: #f9e2af; // Amarillo para que resalte
+}
+
+

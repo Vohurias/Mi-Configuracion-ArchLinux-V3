@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Prueba">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Prueba – MainActivity.kt" projectWorkspaceId="38aLVAj9CFHbhO46dhMECqNofuD">
+              <option name="activationTimestamp" value="1769033291361" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-252.28238.7.2523.14688667" />
+              <option name="buildTimestamp" value="1767949620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1554" y="376" width="1346" height="728" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1769032758963" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MiPrueba">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MiPrueba – MainActivity2.kt [MiPrueba.app.main]" opened="true" projectWorkspaceId="38aMZEUe2qUiMEej3yhMr1WM6mg">
+              <option name="activationTimestamp" value="1771559658636" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-252.28238.7.2523.14688667" />
+              <option name="buildTimestamp" value="1767949620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="8" y="42" width="1350" height="718" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1771520814358" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/MiPrueba" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

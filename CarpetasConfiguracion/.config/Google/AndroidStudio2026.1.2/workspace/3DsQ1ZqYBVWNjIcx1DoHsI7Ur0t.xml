@@ -1,0 +1,244 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="LinuxCommandLibrary" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1qj1l55b3caf8" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "SVG": {
+      "usageCount": 1,
+      "lastUsed": 1779068776644
+    },
+    "Image": {
+      "usageCount": 2,
+      "lastUsed": 1779069118240
+    },
+    "Markdown": {
+      "usageCount": 6,
+      "lastUsed": 1779069185127
+    },
+    "Kotlin": {
+      "usageCount": 3,
+      "lastUsed": 1779068748559
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="6" lastUsage="1779069185127" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="1" lastUsage="1779068776644" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="3" lastUsage="1779068748559" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LinuxCommandLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="LinuxCommandLibrary" />
+            <item name="LinuxCommandLibrary" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="LinuxCommandLibrary" />
+              <item name="dir{file:///home/vohurias/Documentos/LinuxCommandLibrary}" type="462c0819:PsiDirectoryNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.CommonTests" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CommonTests - 2026.05.17 at 20h 44m 05s.xml">
+      <configuration name="CommonTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CommonTests - 2026.05.17 at 20h 44m 17s.xml">
+      <configuration name="CommonTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CommonTests - 2026.05.17 at 20h 49m 09s.xml">
+      <configuration name="CommonTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CommonTests - 2026.05.17 at 20h 49m 23s.xml">
+      <configuration name="CommonTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2640741" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" show_stripe_button="false" weight="0.3293872" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.3293872" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.21296296" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.21296296" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <unified_weights bottom="0.3293872" left="0.2640741" right="0.21296296" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Run</value>
+      <value>Device Manager 2</value>
+      <value>Running Devices</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1268" height="189" key="GridCell.Tab.0.bottom" timestamp="1779073077434">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1268" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1779073077434" />
+    <state width="1268" height="189" key="GridCell.Tab.0.center" timestamp="1779073077434">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1268" height="189" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1779073077434" />
+    <state width="1268" height="189" key="GridCell.Tab.0.left" timestamp="1779073077434">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1268" height="189" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1779073077434" />
+    <state width="1268" height="189" key="GridCell.Tab.0.right" timestamp="1779073077434">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1268" height="189" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1779073077434" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/CONTRIBUTING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/android/src/androidTest/java/com/inspiredandroid/linuxcommandbibliotheca/ComposeDeeplinkTests.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="-528">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/icons/ic_add_rule.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/android/src/main/java/com/inspiredandroid/linuxcommandbibliotheca/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="-396" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/art/screen-desktop-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/android/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/android/src/main/java/com/inspiredandroid/linuxcommandbibliotheca/LinuxApplication.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/assets/basics/filesfolders.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/assets/tips.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="-1188" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinuxCommandLibrary/assets/basics/git.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

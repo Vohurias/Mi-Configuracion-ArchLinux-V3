@@ -1,0 +1,65 @@
+window {
+    background-color: rgba(20, 20, 30, 0.55);
+    border-radius: 25px;
+    font-family: "Ndot55";
+    font-size: 10px;
+
+
+  }
+
+
+button {
+    color: white;
+    background-color: rgba(0,0,0,0.0);
+    
+    border: none;
+    box-shadow: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30%;
+}
+
+button:hover,
+button:focus {
+    background-size: 55%;
+    outline: none;
+}
+
+
+#logout {
+background-image: image(url("/home/vohurias/.config/wlogout/icons/logout.png"));
+
+}
+
+#suspend {
+background-image: image(url("/home/vohurias/.config/wlogout/icons/suspend.png"));
+}
+
+#lock {
+background-image: image(url("/home/vohurias/.config/wlogout/icons/reboot.png"));
+
+}
+
+
+#hibernate {
+  background-image: image(url("/home/vohurias/.config/wlogout/icons/shutdown.png"));
+}
+
+#shutdown {
+background-image: image(url("/home/vohurias/.config/wlogout/icons/shutdown.png"));
+}
+
+#reboot {
+background-image: image(url("/home/vohurias/.config/wlogout/icons/reboot.png"));
+}
+
+
+#lock,
+#hibernate,
+#logout,
+#suspend,
+#shutdown,
+#reboot {
+    margin: 10px;
+}
+

@@ -1,0 +1,572 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="MiPrueba" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DesignSurfaceV2">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.4416058394160584" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2ceyxhj01jxar" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/miprueba/MainActivity4.kt" file-id="420075" managing-fs="1774318317373">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="110">
+                <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+                <folding>
+                  <element signature="e#30#861#0" expanded="true" />
+                </folding>
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"MainActivity4.kt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/miprueba/MainActivity.kt" file-id="420065" managing-fs="1774318317373">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="110">
+                <caret line="92" column="36" lean-forward="true" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"MainActivity.kt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,18,53,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-16,-50,-72,-55,2,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/miprueba/MainActivity3.kt" file-id="420074" managing-fs="1774318317373">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="-3762">
+                <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"MainActivity3.kt","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,18,53,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-16,-50,-72,-55,2,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 6,
+      "lastUsed": 1772859129207
+    },
+    "DIFF": {
+      "usageCount": 9,
+      "lastUsed": 1772921904926
+    },
+    "XML": {
+      "usageCount": 7,
+      "lastUsed": 1773513255142
+    },
+    "Kotlin": {
+      "usageCount": 73,
+      "lastUsed": 1775184309755
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>font</find>
+      <find>scr</find>
+      <find>startAc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/vohurias/AndroidStudioProjects/MiPrueba/app/src/main/AndroidManifest.xml&quot;,
+    &quot;/home/vohurias/AndroidStudioProjects/MiPrueba/app/src/main/java/com/example/miprueba/MainActivity2.kt&quot;,
+    &quot;/home/vohurias/AndroidStudioProjects/MiPrueba/app/src/main/java/com/example/miprueba/MainActivity3.kt&quot;,
+    &quot;/home/vohurias/AndroidStudioProjects/MiPrueba/app/src/main/java/com/example/miprueba/MainActivity4.kt&quot;,
+    &quot;/home/vohurias/AndroidStudioProjects/MiPrueba/app/src/main/java/com/example/miprueba/MainActivity.kt&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="6" lastUsage="1772859129207" />
+    </language>
+    <language id="XML">
+      <summary usageCount="7" lastUsage="1773513255142" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="73" lastUsage="1775184309755" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MiPrueba" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="MiPrueba" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="MiPrueba" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/vohurias/AndroidStudioProjects/MiPrueba/app/src/main/java/com/example/miprueba}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="MiPrueba" />
+            <item name="MiPrueba" type="1abcf292:AndroidViewProjectNode" />
+            <presentation>
+              <attributes />
+              <data iconPath="studio/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="app" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="manifests" />
+                <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="kotlin+java" />
+                <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/miprueba" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.miprueba" />
+                  <item name="dir{file:///home/vohurias/AndroidStudioProjects/MiPrueba/app/src/main/java/com/example/miprueba}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/miprueba/ui/theme" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="ui.theme" />
+                    <item name="dir{file:///home/vohurias/AndroidStudioProjects/MiPrueba/app/src/main/java/com/example/miprueba/ui/theme}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/miprueba/MainActivity.kt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="MainActivity" />
+                    <item name="MainActivity" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/miprueba/MainActivity2.kt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="MainActivity2" />
+                    <item name="MainActivity2" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/miprueba/MainActivity3.kt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="MainActivity3" />
+                    <item name="MainActivity3" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/miprueba/MainActivity4.kt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="MainActivity4.kt" />
+                    <item name="MainActivity4.kt" type="24436e51:KtFileTreeNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/miprueba" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.miprueba" />
+                  <item name="dir{file:///home/vohurias/AndroidStudioProjects/MiPrueba/app/src/androidTest/java/com/example/miprueba}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/test/java/com/example/miprueba" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.miprueba" />
+                  <item name="dir{file:///home/vohurias/AndroidStudioProjects/MiPrueba/app/src/test/java/com/example/miprueba}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="false" text="Gradle Scripts" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" />
+      <element setting="Android App.MainActivity (1)" />
+      <element setting="Android App.MainActivity" />
+    </history>
+  </component>
+  <component name="SplittingTabsState">
+    <tool-windows>
+      <tool-window id="Logcat" selected-tab="0">
+        <tabs>
+          <tab name="Logcat">
+            <content>
+              <panel>{'device':{'physicalDevice':{'serialNumber':'5DN6R19904008103','isOnline':false,'release':'9','apiLevel':{'majorVersion':28,'minorVersion':0},'featureLevel':28,'manufacturer':'HUAWEI','model':'MRD-LX3','type':'HANDHELD'}},'formattingConfig':{'preset':'STANDARD'},'filter':'package:mine ','filterMatchCase':false,'isSoftWrap':false}</panel>
+            </content>
+          </tab>
+        </tabs>
+      </tool-window>
+    </tool-windows>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" />
+    </option>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$">
+        <option name="shellCommand">
+          <option value="/usr/bin/zsh" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Build Variants" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Structure" show_stripe_button="false" side_tool="true" />
+      <window_info id="Backup and Sync History" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22944693" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.22925925" />
+      <window_info id="Bookmarks" order="3" side_tool="true" weight="0.22925925" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" show_stripe_button="false" />
+      <window_info anchor="bottom" id="App Inspection" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.36699164" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.16086352" />
+      <window_info anchor="bottom" id="Logcat" order="4" weight="0.36699164" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" show_stripe_button="false" weight="0.11490251" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.11653645" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Upgrade Assistant" order="9" visible="true" weight="0.33007812" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Layout Validation" show_stripe_button="false" />
+      <window_info anchor="right" id="Device Explorer" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="App Links Assistant" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" visible="true" weight="0.06352765" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.1862963" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.23755491" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.28037035" />
+      <window_info anchor="right" id="Assistant" order="6" visible="true" weight="0.3295964" />
+      <unified_weights bottom="0.36699164" left="0.22944693" right="0.06352765" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Logcat</value>
+      <value>Terminal</value>
+      <value>Bookmarks</value>
+      <value>Build</value>
+      <value>StudioBot</value>
+      <value>Problems View</value>
+      <value>Resources Explorer</value>
+      <value>Running Devices</value>
+      <value>Assistant</value>
+      <value>Device Manager 2</value>
+      <value>Upgrade Assistant</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="184" key="#Updates" timestamp="1771008814145">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="321" y="184" key="#Updates/0.34.1366.734@0.34.1366.734" timestamp="1771008814145" />
+    <state x="283" y="58" width="894" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1773705831839">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="1649" y="58" width="894" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1769034332235" />
+    <state x="283" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1773705831839" />
+    <state x="308" y="138" width="750" height="525" key="#com.intellij.ide.util.MemberChooser" timestamp="1773034967910">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="308" y="138" width="750" height="525" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1773034967910" />
+    <state x="1837" y="172" key="FileChooserDialogImpl" timestamp="1774744780859">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1837" y="172" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1774744780859" />
+    <state x="1677" y="361" width="1026" height="358" key="ProcessPopupWindow" timestamp="1769033464081">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1677" y="361" width="1026" height="358" key="ProcessPopupWindow/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1769033464081" />
+    <state x="1824" y="142" key="ScreenshotViewer" timestamp="1769035968663">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1824" y="142" key="ScreenshotViewer/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1769035968663" />
+    <state x="192" y="34" key="SettingsEditor" timestamp="1771376505636">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="192" y="34" key="SettingsEditor/0.34.1366.734@0.34.1366.734" timestamp="1771376505636" />
+    <state width="943" height="420" key="SwitcherDM" timestamp="1771298180418">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="943" height="439" key="SwitcherDM/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1769566075002" />
+    <state width="943" height="420" key="SwitcherDM/0.34.1366.734@0.34.1366.734" timestamp="1771298180418" />
+    <state x="421" y="105" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1772858737503">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="1787" y="105" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1769038410649" />
+    <state x="421" y="105" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1772858737503" />
+    <state x="8" y="42" width="669" height="718" key="lvcs.dialog.size" timestamp="1773514646275">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="8" y="42" width="669" height="718" key="lvcs.dialog.size/0.0.1366.768@0.0.1366.768" timestamp="1773514646275" />
+    <state x="346" y="102" width="706" height="666" key="search.everywhere.popup" timestamp="1773178653135">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="1712" y="71" width="706" height="696" key="search.everywhere.popup/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1769038494888" />
+    <state x="346" y="102" width="706" height="666" key="search.everywhere.popup/0.34.1366.734@0.34.1366.734" timestamp="1773178653135" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.8.0/d56176e5b2b55654d898039f3c3685cc9c221af7/activity-1.8.0-sources.jar!/androidx/activity/ComponentActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/miprueba/ui/theme/pantallla1.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/miprueba/ui/MainActivity.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/miprueba/ui/pantalla1.java" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.3.6/25ece06338d39da1fdc9d8488aa57b5014866918/fragment-1.3.6-sources.jar!/androidx/fragment/app/FragmentActivity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="2776">
+            <caret line="271" column="19" selection-start-line="271" selection-start-column="19" selection-end-line="271" selection-end-column="19" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.12.2/55e710b5e38230a2fbf8e6d83ab0613714a3761f/activity-1.12.2-sources.jar!/androidx/activity/ComponentActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="217">
+            <caret line="331" column="17" selection-start-line="331" selection-start-column="17" selection-end-line="331" selection-end-column="17" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main3.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/miprueba/MainActivity2.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="154">
+            <caret line="35" selection-start-line="32" selection-end-line="35" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/miprueba/MainActivity3.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="-3762">
+            <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/miprueba/MainActivity4.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="110">
+            <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+            <folding>
+              <element signature="e#30#861#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/miprueba/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="110">
+            <caret line="92" column="36" lean-forward="true" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
